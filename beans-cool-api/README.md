@@ -55,9 +55,3 @@ Invoke-RestMethod -Uri "http://localhost:3000/"
 ```bash
 curl http://localhost:3000/
 ```
-
-## Deploy
-
-1. Push to GitHub
-2. Deploy to Fly.io, Railway, or Vercel
-3. Done!
